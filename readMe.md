@@ -36,7 +36,7 @@ pip install pydub openai-whisper
 1. Run the application:
 
 ```bash
-python m4a_to_mp3_and_extract_speech.py
+python STT_PY.py
 ```
 
 2. Select an input audio file (M4A, MP3, or WAV)
